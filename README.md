@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio prueba modulo 2
+Prueba de Rodri Colman de como crear un repositorio y clonarlo a nuestra pc
